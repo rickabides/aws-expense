@@ -34,14 +34,14 @@ How to Use the App
 
 1. Clone the Repository
 
-git clone <repository_url>
-cd aws-expense-tracker
+``git clone <repository_url>``
+``cd aws-expense-tracker``
 
 2. Launch the App
 
 Open RStudio or the R terminal and run:
 
-shiny::runApp()
+``shiny::runApp()``
 
 3. Upload Data
 	1.	Click the “Browse” button to upload your AWS Cost Explorer CSV report.
@@ -71,4 +71,4 @@ License
 
 This project is licensed under the MIT License.
 
-Let me know if you’d like any further updates or clarifications! 🚀
+Let me know if you’d like any further updates or clarifications!
